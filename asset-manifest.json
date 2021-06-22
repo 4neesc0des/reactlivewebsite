@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.dfbb94a4.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.56393ce9.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.56393ce9.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.1a61a858.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.1a61a858.js.map",
+    "static/js/2.32232f9f.chunk.js": "/reactlivewebsite/static/js/2.32232f9f.chunk.js",
+    "static/js/2.32232f9f.chunk.js.map": "/reactlivewebsite/static/js/2.32232f9f.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/main.dfbb94a4.chunk.css.map": "/reactlivewebsite/static/css/main.dfbb94a4.chunk.css.map",
+    "static/js/2.32232f9f.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.32232f9f.chunk.js.LICENSE.txt",
+    "static/media/c.9dfdc496.png": "/reactlivewebsite/static/media/c.9dfdc496.png",
+    "static/media/crypto.9c7155ee.jpg": "/reactlivewebsite/static/media/crypto.9c7155ee.jpg",
+    "static/media/img1.4715ac4b.svg": "/reactlivewebsite/static/media/img1.4715ac4b.svg",
+    "static/media/img2.72482d4f.svg": "/reactlivewebsite/static/media/img2.72482d4f.svg",
+    "static/media/java.64a5e861.jpg": "/reactlivewebsite/static/media/java.64a5e861.jpg",
+    "static/media/python.2bb97f70.png": "/reactlivewebsite/static/media/python.2bb97f70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a61a858.js",
+    "static/js/2.32232f9f.chunk.js",
+    "static/css/main.dfbb94a4.chunk.css",
+    "static/js/main.56393ce9.chunk.js"
+  ]
+}
