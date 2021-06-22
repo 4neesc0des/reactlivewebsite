@@ -1,0 +1,46 @@
+$primaryColor :#565387;
+$primaryWhite:#fff;
+
+
+//common and global styling
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+// navbar start
+
+@import "../src/sass/navbar.scss";
+
+/* home page start */
+@import "../src/sass/header.scss";
+
+
+/* service part start */
+@import "../src/sass/service.scss";
+
+
+/* Contact form start */
+@import "../src/sass/contact.scss";
+
+
+/* footer start */
+
+@import "../src/sass/footer.scss";

@@ -1,0 +1,106 @@
+.contact-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0 55px;
+}
+
+.contact-headding {
+    color: $primaryColor;
+    border-bottom: 3px solid $primaryColor;
+}
+
+.contact-form-container {
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.service-content {
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+form {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container,
+.form-element {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form-container {
+    padding: 20px;
+}
+
+.form-element {
+    padding: 10px 0;
+}
+
+.form-lable {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+    font-weight: 700;
+}
+
+.form-input {
+    font-size: 16px;
+    padding: 5px 10px;
+    color: $primaryColor;
+    font-weight: 700;
+    border-radius: 3px;
+    outline: none;
+    border: 2px solid #ddd;
+}
+
+.form-input:focus {
+    border: 2px solid #333;
+}
+
+.form-textArea:focus {
+    border: 2px solid #333;
+}
+
+.form-input::placeholder {
+    color: $primaryColor;
+}
+
+.form-textArea {
+    border: 2px solid #ddd;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.btnSend {
+    width: 90%;
+    padding: 8px 0;
+    background: $primaryColor;
+    color: $primaryWhite;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
+.btnSend:focus {
+    background: #333;
+}
